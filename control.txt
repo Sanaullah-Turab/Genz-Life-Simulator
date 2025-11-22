@@ -1,0 +1,1 @@
+A version control system tracks and manages changes to files over time, allowing snapshots of a project to be recorded, compared, and restored. It makes collaboration safer by keeping a history of edits, supporting branching and merging for experiments, and enabling sharing and backup through remote repositories.
